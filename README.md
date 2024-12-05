@@ -80,11 +80,5 @@ crime_report = "An individual was found unlawfully discharging firearms in a pub
 - 📚 **Enhanced Knowledge Base**: Include more IPC sections for wider applicability.
 - 🧐 **ML-based Model**: Use supervised learning for improved classification.
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-## 🛡️ License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
